@@ -1,0 +1,60 @@
+<svg width="1008" height="840" viewBox="0 0 1008 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="02 &#194;&#183; Construcci&#195;&#179;n del logo">
+<g id="Tablero de construcci&#195;&#179;n">
+<g clip-path="url(#clip0_6_5)">
+<path d="M0 24C0 10.7452 10.7452 0 24 0H984C997.255 0 1008 10.7452 1008 24V816C1008 829.255 997.255 840 984 840H24C10.7452 840 0 829.255 0 816V24Z" fill="#F6F7F9"/>
+<rect id="Rectangle" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_2" x="50.3999" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_3" x="100.8" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_4" x="151.2" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_5" x="201.6" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_6" x="252" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_7" x="302.4" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_8" x="352.8" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_9" x="403.2" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_10" x="453.6" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_11" x="504" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_12" x="554.4" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_13" x="604.8" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_14" x="655.2" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_15" x="705.6" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_16" x="756" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_17" x="806.4" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_18" x="856.8" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_19" x="907.2" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_20" x="957.6" width="1" height="840" fill="#D9DEE5"/>
+<rect id="Rectangle_21" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_22" y="50.4" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_23" y="100.8" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_24" y="151.2" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_25" y="201.6" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_26" y="252" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_27" y="302.4" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_28" y="352.8" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_29" y="403.2" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_30" y="453.6" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_31" y="504" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_32" y="554.4" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_33" y="604.8" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_34" y="655.2" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_35" y="705.6" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_36" y="756" width="1008" height="1" fill="#D9DEE5"/>
+<rect id="Rectangle_37" y="806.4" width="1008" height="1" fill="#D9DEE5"/>
+<g id="S&#195;&#173;mbolo">
+<path id="U" d="M565.2 547.2L565.209 548.619C565.389 563.264 568.361 577.746 573.97 591.286C579.759 605.262 588.244 617.962 598.941 628.659C609.638 639.356 622.338 647.841 636.314 653.63C650.291 659.42 665.272 662.4 680.4 662.4C695.528 662.4 710.509 659.42 724.486 653.63C738.462 647.841 751.162 639.356 761.859 628.659C772.556 617.962 781.041 605.262 786.83 591.286C792.62 577.309 795.6 562.328 795.6 547.2V100.8H896.4V547.2C896.4 575.566 890.812 603.653 879.957 629.859C869.102 656.066 853.192 679.877 833.134 699.935C813.077 719.992 789.266 735.902 763.059 746.757C736.853 757.612 708.765 763.2 680.4 763.2C652.034 763.2 623.947 757.612 597.741 746.757C571.534 735.902 547.723 719.992 527.665 699.935C507.608 679.877 491.697 656.066 480.842 629.859C470.327 604.472 464.754 577.319 464.416 549.858L464.4 547.2V298.8H565.2V547.2Z" fill="#F5CF0A"/>
+<path id="P" d="M464.4 471.3C480.048 462.483 494.456 451.56 507.208 438.808C525.594 420.422 540.178 398.593 550.128 374.571C560.079 350.548 565.2 324.801 565.2 298.8C565.2 272.799 560.079 247.052 550.128 223.029C540.178 199.007 525.594 177.178 507.208 158.792C488.822 140.406 466.993 125.822 442.97 115.871C418.948 105.921 393.201 100.8 367.2 100.8H151.2V756H252V201.6H367.2L368.397 201.607C380.754 201.759 392.973 204.267 404.397 208.999C416.19 213.883 426.905 221.044 435.93 230.07C444.956 239.095 452.117 249.81 457.001 261.603C461.886 273.396 464.4 286.036 464.4 298.8V471.3Z" fill="#151A21"/>
+</g>
+<circle id="Gu&#195;&#173;a/c&#195;&#173;rculo" cx="367.2" cy="298.8" r="197" stroke="#2F6FD1" stroke-width="2" stroke-dasharray="8 8"/>
+<circle id="Gu&#195;&#173;a/c&#195;&#173;rculo_2" cx="367.2" cy="298.8" r="96.2" stroke="#2F6FD1" stroke-width="2" stroke-dasharray="8 8"/>
+<circle id="Gu&#195;&#173;a/c&#195;&#173;rculo_3" cx="680.4" cy="547.2" r="215" stroke="#2F6FD1" stroke-width="2" stroke-dasharray="8 8"/>
+<circle id="Gu&#195;&#173;a/c&#195;&#173;rculo_4" cx="680.4" cy="547.2" r="114.2" stroke="#2F6FD1" stroke-width="2" stroke-dasharray="8 8"/>
+<rect id="Gu&#195;&#173;a/l&#195;&#173;nea base" y="756" width="1008" height="2" fill="#D93030"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_6_5">
+<path d="M0 24C0 10.7452 10.7452 0 24 0H984C997.255 0 1008 10.7452 1008 24V816C1008 829.255 997.255 840 984 840H24C10.7452 840 0 829.255 0 816V24Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
