@@ -1,31 +1,23 @@
-# Manual de marca · Claudia Niño
+# Kit de marca · Claudia Niño · Progreso Urbano Consultores
 
-Progreso Urbano Consultores — página web estática para presentar el manual de marca (logo, color, tipografía, elementos gráficos y aplicaciones).
+Página de entrega de la marca con tres botones:
 
-- **Pantalla horizontal (laptop / tableta apaisada):** cada lámina ocupa la pantalla en 16:9, como en Figma. Navega con las flechas del teclado, la rueda del ratón, deslizando, o con los botones de abajo a la derecha. `F` = pantalla completa.
-- **Teléfono / tableta vertical:** las láminas se reorganizan en una sola columna para leer con scroll.
-- Enlaces directos a cada lámina: `#portada`, `#concepto`, `#construccion`, `#versiones`, `#colores`, `#tipografia`, `#linkedin`, `#banners`, `#diagramaciones`, `#elementos`, `#patron`, `#web`, `#servicios`.
+1. **Manual de marca y Sistema de diseño**: descarga la presentación (`assets/descargas/`), 26 láminas.
+2. **Carpeta de la marca**: carpeta de Google Drive con elementos gráficos, propuesta de marca, plantillas y el prompt de IA.
+3. **Guía general**: documento de Word que explica qué hay en cada carpeta y cómo se llaman los archivos.
+
+## Cambiar un enlace
+
+En `index.html`, reemplaza `href="#pendiente"` por el enlace de Google Drive (compartido como «Cualquier persona con el enlace · Lector»).
+Mientras el enlace diga `#pendiente`, el botón aparece como «Disponible pronto».
 
 ## Estructura
 
 ```
-index.html      contenido de las 13 láminas
-styles.css      tokens del Design System + maquetación (móvil y modo presentación)
-script.js       navegación entre láminas
-assets/         logos (SVG), formas, banners, patrones y maquetas web exportadas de Figma
+index.html   la página
+styles.css   tokens de la marca (colores, Urbanist / Google Sans Flex / DM Mono) y maquetación
+assets/      logo (SVG), geometrías de los botones y la presentación descargable
 ```
 
-Sin dependencias ni compilación: basta con abrir `index.html` o publicarlo.
-
-## Publicar con GitHub Pages
-
-1. En GitHub Desktop: **File → Add local repository…** y elige esta carpeta.
-2. **Publish repository** (debe ser público para usar Pages gratis).
-3. En github.com, en el repositorio: **Settings → Pages → Source: Deploy from a branch → `main` / `(root)`**.
-4. En un minuto queda en `https://<tu-usuario>.github.io/cn-consulting-brandbook/`.
-
-## Fuente
-
-Figma: archivo *CN-consulting*, páginas *Brand Book* y *Web*. Fuentes: Montserrat y Google Sans Flex (Google Fonts).
-
-Fotografías: Pixabay (bergslay, Makalu) y Pexels (Gustavo Solmott, Christian Gutiérrez Martínez), bajo sus licencias respectivas.
+Sin dependencias ni compilación. Se publica con GitHub Pages (`main` / raíz).
+La versión anterior del sitio (manual v1, paleta y tipografía viejas) queda en el historial de git.
